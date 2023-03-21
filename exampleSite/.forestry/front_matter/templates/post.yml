@@ -24,4 +24,5 @@ fields:
   description: meta description
 pages:
 - exampleSite/content/english/blog/article.md
+- exampleSite/content/english/blog/page-essai.md
 - exampleSite/data/en/page.md
