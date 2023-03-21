@@ -1,6 +1,6 @@
 +++
-author = ""
-date = ""
+author = "ingrid"
+date = 2023-03-20T23:00:00Z
 description = "ceci est un article"
 image = "/images/portfolio/portfolio-6.jpg"
 image_webp = "/images/portfolio/portfolio-5.webp"
