@@ -2,7 +2,6 @@
 author = ""
 date = 2023-03-20T23:00:00Z
 description = ""
-draft = true
 image = ""
 image_webp = "/images/portfolio/portfolio-3.webp"
 title = "page"
