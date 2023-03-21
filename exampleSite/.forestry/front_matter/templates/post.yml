@@ -23,5 +23,6 @@ fields:
   label: description
   description: meta description
 pages:
+- exampleSite/content/english/blog/article.md
 - exampleSite/content/english/blog/page1.md
 - exampleSite/data/en/page.md
