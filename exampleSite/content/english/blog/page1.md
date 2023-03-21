@@ -2,6 +2,7 @@
 author = ""
 date = 2023-03-20T23:00:00Z
 description = "etiquete"
+draft = true
 image = ""
 image_webp = "/images/portfolio/portfolio-6.jpg"
 title = "page1"
