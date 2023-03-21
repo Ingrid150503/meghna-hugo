@@ -1,4 +1,4 @@
-baseURL = "https://siteingrid.netlify.com"
+baseURL = "https://site-ingrid.netlify.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
